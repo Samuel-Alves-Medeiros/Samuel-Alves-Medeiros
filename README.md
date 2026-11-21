@@ -8,7 +8,7 @@ Estudante de Engenharia de Software e desenvolvedor em formação, com interesse
 - SQL e bancos de dados relacionais.
 - Git, Linux e boas práticas de desenvolvimento.
 
-### Atualmente trabalhando:
+### Atualmente trabalhando no projeto:
 - Lock in space — aplicação web de produtividade e gerenciamento de tarefas.
   
 ### Tecnologias

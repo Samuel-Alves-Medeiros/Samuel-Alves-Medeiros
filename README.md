@@ -7,6 +7,9 @@ Estudante de Engenharia de Software e desenvolvedor em formação, com interesse
 - JavaScript e desenvolvimento web.
 - SQL e bancos de dados relacionais.
 - Git, Linux e boas práticas de desenvolvimento.
+
+### Atualmente trabalhando:
+- Lock in space — aplicação web de produtividade e gerenciamento de tarefas.
   
 ### Tecnologias
 Python, JavaScript, HTML, CSS, Flask, SQLite, Git, Linux

@@ -61,4 +61,4 @@ O projeto tem como objetivo desenvolver raciocínio lógico, resolução de prob
 
 ---
 
-⭐ Obrigado por visitar meu perfil! Estou sempre aberto a aprender, compartilhar conhecimentos e colaborar em novos projetos.
+👾 Obrigado por visitar meu perfil! Estou sempre aberto a aprender, compartilhar conhecimentos e colaborar em novos projetos.

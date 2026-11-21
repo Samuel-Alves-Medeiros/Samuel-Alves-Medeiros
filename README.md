@@ -54,7 +54,7 @@ O projeto tem como objetivo desenvolver raciocínio lógico, resolução de prob
 ## 🎯 Objetivos
 
 - Aprofundar meus conhecimentos em desenvolvimento backend.
-- Aprimorar minhas habilidades em Python e Java.
+- Aprimorar minhas habilidades em Python e JavaScript.
 - Estudar arquitetura de software e bancos de dados.
 - Desenvolver projetos que resolvam problemas reais.
 - Evoluir profissionalmente através de experiências e colaboração em equipe.

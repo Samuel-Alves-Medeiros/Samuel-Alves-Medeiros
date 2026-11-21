@@ -9,7 +9,7 @@ Estudante de Engenharia de Software e desenvolvedor em formação, com interesse
 - Git, Linux e boas práticas de desenvolvimento.
   
 ### Tecnologias
-Python JavaScript HTML CSS Flask SQLite Git Linux
+Python, JavaScript, HTML, CSS, Flask, SQLite, Git, Linux
 
 ### Projetos em destaque
 - Lock in space — aplicação web de produtividade e gerenciamento de tarefas.

@@ -1,12 +1,13 @@
 ## Olá! Sou Samuel Alves
 Estudante de Engenharia de Software e desenvolvedor em formação, com interesse em desenvolvimento backend e engenharia de software.
+
 ### Atualmente estudando:
 - Python e desenvolvimento backend com Flask.
 - API's REST
 - JavaScript e desenvolvimento web.
 - SQL e bancos de dados relacionais.
 - Git, Linux e boas práticas de desenvolvimento.
-- 
+  
 ### Tecnologias
 Python JavaScript HTML CSS Flask SQLite Git Linux
 

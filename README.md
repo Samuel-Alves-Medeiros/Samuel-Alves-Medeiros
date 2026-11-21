@@ -10,7 +10,7 @@ Estudante de Engenharia de Software e desenvolvedor em formação, com interesse
 ### Tecnologias
 Python JavaScript HTML CSS Flask SQLite Git Linux
 
-# Projetos em destaque
+### Projetos em destaque
 - Lock in space — aplicação web de produtividade e gerenciamento de tarefas.
 - Maratona de Programação — soluções de exercícios em Python e em C++ em um repositório colaborativo.
 
